@@ -26,9 +26,6 @@ python main.py
 adk web
 ```
 
-## Deployment
-
-Push to GitHub and deploy using your preferred platform (Render/Fly/VPS/etc.) with the same environment variables.
 
 ## Project structure
 
